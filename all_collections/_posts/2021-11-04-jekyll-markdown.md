@@ -3,7 +3,7 @@ layout: post
 title: Ing. Biomédica Alexandra Rivera
 date: 2021-11-04
 categories: ["IA"]
-thumbnail: "assets/images/[thumb1.png](https://avatars.githubusercontent.com/u/156872212?v=4)"
+thumbnail: "Aleriveraa08.github.io/assets/images/IMG-20201011-WA0031.jpg"
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`

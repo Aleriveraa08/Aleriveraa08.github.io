@@ -2,7 +2,7 @@
 layout: post
 title: Ing. Biomédica Alexandra Rivera
 date: 2024-01-29
-categories: ["IA"]
+categories: ["biografia"]
 thumbnail: "assets/images/casco.jpg"
 ---
 

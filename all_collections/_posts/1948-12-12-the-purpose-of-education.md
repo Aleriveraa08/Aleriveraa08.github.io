@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The Purpose of Education
-date: 1948-12-12 10:18:00
-categories: [fiction, jekyll]
+title: Preparación 
+date: 2020-01-15 10:18:00
+categories: [antecedentes, estudios]
 ---
 
 As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
 
-![alt](https://picsum.photos/800/300)
+![alt](https://th.bing.com/th/id/R.f22afeab7d7866e2c3b8c7551cba9e60?rik=7UDu2grg7aUvlg&pid=ImgRaw&r=0)
 
 It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
 

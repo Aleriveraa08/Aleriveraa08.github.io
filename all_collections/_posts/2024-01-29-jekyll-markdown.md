@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ing. Biomédica Alexandra Rivera
-date: 2021-11-04
+date: 2024-01-29
 categories: ["IA"]
 thumbnail: "assets/images/casco.jpg"
 ---

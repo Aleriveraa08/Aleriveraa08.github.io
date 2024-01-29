@@ -3,7 +3,7 @@ layout: post
 title: Ing. Biomédica Alexandra Rivera
 date: 2021-11-04
 categories: ["IA"]
-thumbnail: "assets/images/IMG-20201011-WA0031.jpg"
+thumbnail: "assets/images/casco.jpg"
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`

@@ -1,12 +1,12 @@
-title: Jekyll Material You
+title: Alexandra Marie Website for you
 markdown: kramdown
 # url: ""
-# baseurl: "/jekyll-theme-material-you"
+# baseurl: "https://aleriveraa08.github.io/"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Alexandra Rivera
+  email: alexa08rivera@gmail.com
 
 plugins:
   - jemoji

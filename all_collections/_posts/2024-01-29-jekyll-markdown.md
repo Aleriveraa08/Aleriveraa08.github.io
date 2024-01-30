@@ -6,13 +6,10 @@ categories: ["biografia"]
 thumbnail: "assets/images/casco.jpg"
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
+_Estudiante de ingeniería biomédica en la Universidad Latina de Panamá_ `Biomedicina`
 
-[Link to another page](./another-page.html).
+[Visita mi perfil en github]([./another-page.html](https://github.com/Aleriveraa08/PaginaWebAlex)).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 #### Image
 
@@ -20,9 +17,10 @@ Images can be clicked to enlarge :) .
 
 ![Dummy Image](https://picsum.photos/800/300)
 
-# Header 1
+# Ingeniería Biomédica: Avanzando la Salud a través de la Innovación Tecnológica
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+La Ingeniería Biomédica es un campo multidisciplinario que fusiona los principios de la ingeniería con la biología y la medicina para desarrollar soluciones innovadoras que mejoren la atención médica y la calidad de vida de las personas. 
+Este emocionante campo de estudio se sitúa en la intersección de la tecnología y la salud, abordando desafíos médicos y creando dispositivos y sistemas que transforman la manera en que entendemos y gestionamos la salud.
 
 ## Header 2
 

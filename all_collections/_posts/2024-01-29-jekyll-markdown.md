@@ -11,11 +11,15 @@ _Estudiante de ingeniería biomédica en la Universidad Latina de Panamá_ `Biom
 [Visita mi perfil en github](https://github.com/Aleriveraa08/PaginaWebAlex/blob/main/README.md).
 
 
-#### Image
+#### *Puente entre la ingeniería y la medicina*
 
-Images can be clicked to enlarge :) .
+Si estas interesado en estudiar ing. biomédica debes saber que...
 
-![Dummy Image](https://picsum.photos/800/300)
+Imagina un equipo de profesionales que no solo comprenden los intricados detalles del cuerpo humano, sino que también son maestros en la aplicación de principios de ingeniería para diseñar equipos médicos de vanguardia. 
+
+Eso es lo que hace la Ingeniería Biomédica. Los ingenieros biomédicos trabajan en estrecha colaboración con profesionales médicos para desarrollar tecnologías que revolucionan la prevención, diagnóstico y tratamiento de enfermedades.
+
+![Dummy Image](https://www.frba.utn.edu.ar/wp-content/uploads/2017/09/What-is-Biomedical-Engineering-8-e1504292726849-1024x427.jpg)
 
 # Ingeniería Biomédica: Avanzando la Salud a través de la Innovación Tecnológica
 

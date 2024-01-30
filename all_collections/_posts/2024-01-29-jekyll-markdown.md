@@ -8,7 +8,7 @@ thumbnail: "assets/images/casco.jpg"
 
 _Estudiante de ingeniería biomédica en la Universidad Latina de Panamá_ `Biomedicina`
 
-[Visita mi perfil en github]([(https://github.com/Aleriveraa08/PaginaWebAlex/blob/main/README.md)]).
+[Visita mi perfil en github]((https://github.com/Aleriveraa08/PaginaWebAlex/blob/main/README.md)).
 
 
 #### Image
